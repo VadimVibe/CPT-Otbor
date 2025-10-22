@@ -41,3 +41,4 @@ def play(hod):
                 break
 
         hod += 1
+play(hod)
